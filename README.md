@@ -10,9 +10,3 @@ Usage:
 ```bash
 python3 main.py
 ```
-
-Output:
-
-```
-The sum of 5 and 7 is 12
-```
